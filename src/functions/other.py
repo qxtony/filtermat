@@ -5,12 +5,10 @@ from ..configurations import (
     TRANSLATE_RUSSIAN, MORPH, FILTER_MAT
 )
 
+from ..files import mats
+
 def array_mats():
-
-    with open("filtermat/src/files/mats.txt", "r") as file:
-        data = file.read()
-
-    return data.split(", ")
+    return mats.mats
 
 
 def standard_form(word):
