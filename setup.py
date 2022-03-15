@@ -8,14 +8,14 @@ requirements = ["pymorphy2", "pymorphy2-dicts-ru", "regex"]
 
 setup(
 	name="filtermat",
-	version="1.5",
+	version="1.5.3",
 	author="qxtony",
-	author_email="qxtonydev@gmail.com",
+	author_email="AntonSharafiev3866@gmail.com",
 	description="This Python library is needed in order to search for Russian mat in text.",
 	long_description=long_description,
 	long_description_content_type="text/markdown",
 	url="https://github.com/qxtony/filtermat",
-	packages=["src", "src/files", "src/functions"],
+	packages=["filtermat", "filtermat/files", "filtermat/functions"],
 	install_requires=requirements,
 	classifiers=[
 		"Programming Language :: Python :: 3.8",
