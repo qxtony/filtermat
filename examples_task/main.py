@@ -1,12 +1,10 @@
-from filtermat import check
+from roughfilter import search_obscene_words
 
-text = input("Введите текст ")
 
-if check(text):
-    result = "В тексте есть маты."
+def main():
+    sentences = input()
+    print(search_obscene_words(sentences))
 
-else:
-    result = "Матов не обнаружено."
 
-print(result)
-
+if __name__ == "__main__":
+    main()
