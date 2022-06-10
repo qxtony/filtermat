@@ -1,7 +1,7 @@
 <h1 align="center" name="name">RoughFilter</h1>
 <p align="center">
     <em>
-        With this library, you can easily catch rude expressions in text.
+        With this library, you can easily catch rude expressions in text.<br>
         Two technologies are used: Regular expressions, as well as manual search through the list words.
     </em>
 </p>
