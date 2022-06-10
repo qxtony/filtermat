@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/qxtony/filtermat/issues">
-        <img src="https://img.shields.io/github/issues/qxtony/filtermat" alt="Issues">
+    <a href="https://github.com/qxtony/roughfilter/issues">
+        <img src="https://img.shields.io/github/issues/qxtony/roughfilter" alt="Issues">
     </a>
-    <a href="https://pypi.org/project/filtermat/">
-        <img src="https://img.shields.io/pypi/v/filtermat?colorB=brightgreen" alt="Package version">
+    <a href="https://pypi.org/project/roughfilter/">
+        <img src="https://img.shields.io/pypi/v/roughfilter?colorB=brightgreen" alt="Package version">
     </a>
-    <a href="https://github.com/qxtony/filtermat/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/qxtony/filtermat.svg" alt="License">
+    <a href="https://github.com/qxtony/roughfilter/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/qxtony/roughfilter.svg" alt="License">
     </a>
 </p>
 
