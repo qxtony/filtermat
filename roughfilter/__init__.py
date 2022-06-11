@@ -8,5 +8,5 @@
 from roughfilter.functions import search_obscene_words
 
 __author__ = "qxtony"
-__version__ = "2.0"
+__version__ = "2.0.2"
 __email__ = "qxtonydev@gmail.com"
