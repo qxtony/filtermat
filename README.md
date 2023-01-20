@@ -10,9 +10,6 @@
     <a href="https://github.com/qxtony/roughfilter/issues">
         <img src="https://img.shields.io/github/issues/qxtony/roughfilter" alt="Issues">
     </a>
-    <a href="https://pypi.org/project/roughfilter/">
-        <img src="https://img.shields.io/pypi/v/roughfilter?colorB=brightgreen" alt="Package version">
-    </a>
     <a href="https://github.com/qxtony/roughfilter/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/qxtony/roughfilter.svg" alt="License">
     </a>
@@ -23,7 +20,7 @@
 Stable version:
 
 ```bash
-pip install -U roughfilter
+pip install -U https://github.com/qxtony/roughfilter/archive/main.zip
 ```
 ## Quickstart
 An example of a program for a simple search for rough expressions.
